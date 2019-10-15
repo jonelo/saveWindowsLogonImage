@@ -20,7 +20,7 @@ mkdir bin && cd $_
 
 3. Save the saveWindowsLogonImage.sh to the $HOME/bin folder
 ```
-curl -LOs https://raw.githubusercontent.com/jonelo/saveWindowsLogonImage/master/saveWindowsLogonImaage.sh
+curl -LOs https://raw.githubusercontent.com/jonelo/saveWindowsLogonImage/master/saveWindowsLogonImage.sh
 ```
 
 4. Add execute permissions on the script
