@@ -36,11 +36,17 @@ Logon on Windows and double click the saveWindowsLogonImage.bat on your desktop.
 
 ### On WSL
 
-Logonn on Windows and open your bash on Windows, call
+Logon on Windows and open your bash on Windows, call
 ```
 ~/bin/saveWindowsLogonImage.sh
 ```
 and the current Windows logon image will be saved to your desktop.
+
+## Troubleshooting
+
+### Windows Logon Image doesn't change anymore
+
+If the Windows Logon Image doesn't change anymore, you can fix it by the WindowsLogonImageFix.bat that is part of this project.
 
 ## The license
 
