@@ -6,8 +6,8 @@ The script saves the current Windows logon image to your desktop by calling a ba
 
 ## What are the system requirements?
 
-* Windows 10
-* WSL, see also https://docs.microsoft.com/en-us/windows/wsl/install-win10
+* Windows 10 or 11
+* WSL 1 or 2, see also https://learn.microsoft.com/en-us/windows/wsl/install
 
 ## How to configure and install it
 
